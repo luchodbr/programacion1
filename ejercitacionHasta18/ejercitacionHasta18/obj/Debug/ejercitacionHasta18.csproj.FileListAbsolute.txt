@@ -1,0 +1,7 @@
+D:\VisualStudio\ejercitacionHasta18\ejercitacionHasta18\bin\Debug\ejercitacionHasta18.exe.config
+D:\VisualStudio\ejercitacionHasta18\ejercitacionHasta18\bin\Debug\ejercitacionHasta18.exe
+D:\VisualStudio\ejercitacionHasta18\ejercitacionHasta18\bin\Debug\ejercitacionHasta18.pdb
+D:\VisualStudio\ejercitacionHasta18\ejercitacionHasta18\obj\Debug\ejercitacionHasta18.csprojAssemblyReference.cache
+D:\VisualStudio\ejercitacionHasta18\ejercitacionHasta18\obj\Debug\ejercitacionHasta18.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ejercitacionHasta18\ejercitacionHasta18\obj\Debug\ejercitacionHasta18.exe
+D:\VisualStudio\ejercitacionHasta18\ejercitacionHasta18\obj\Debug\ejercitacionHasta18.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaGrados", "BibliotecaGrados\BibliotecaGrados.csproj", "{9B333520-E005-4C28-883A-1824AB2C0C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formsGrados", "formsGrados\formsGrados.csproj", "{912B105F-6A7F-417F-B907-03D3B3059622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B333520-E005-4C28-883A-1824AB2C0C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B333520-E005-4C28-883A-1824AB2C0C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B333520-E005-4C28-883A-1824AB2C0C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B333520-E005-4C28-883A-1824AB2C0C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912B105F-6A7F-417F-B907-03D3B3059622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912B105F-6A7F-417F-B907-03D3B3059622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912B105F-6A7F-417F-B907-03D3B3059622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912B105F-6A7F-417F-B907-03D3B3059622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B35172B-6C9B-46AC-9761-15B7A4E46119}
+	EndGlobalSection
+EndGlobal

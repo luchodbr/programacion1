@@ -1,0 +1,13 @@
+D:\VisualStudio\BibliotecaGrados\formsGrados\bin\Debug\formsGrados.exe.config
+D:\VisualStudio\BibliotecaGrados\formsGrados\bin\Debug\formsGrados.exe
+D:\VisualStudio\BibliotecaGrados\formsGrados\bin\Debug\formsGrados.pdb
+D:\VisualStudio\BibliotecaGrados\formsGrados\bin\Debug\BibliotecaGrados.dll
+D:\VisualStudio\BibliotecaGrados\formsGrados\bin\Debug\BibliotecaGrados.pdb
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.csprojAssemblyReference.cache
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.Form1.resources
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.Properties.Resources.resources
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.csproj.GenerateResource.cache
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.csproj.CoreCompileInputs.cache
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.csproj.CopyComplete
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.exe
+D:\VisualStudio\BibliotecaGrados\formsGrados\obj\Debug\formsGrados.pdb

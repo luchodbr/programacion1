@@ -1,0 +1,6 @@
+D:\VisualStudio\BibliotecaGrados\BibliotecaGrados\bin\Debug\BibliotecaGrados.dll
+D:\VisualStudio\BibliotecaGrados\BibliotecaGrados\bin\Debug\BibliotecaGrados.pdb
+D:\VisualStudio\BibliotecaGrados\BibliotecaGrados\obj\Debug\BibliotecaGrados.csprojAssemblyReference.cache
+D:\VisualStudio\BibliotecaGrados\BibliotecaGrados\obj\Debug\BibliotecaGrados.csproj.CoreCompileInputs.cache
+D:\VisualStudio\BibliotecaGrados\BibliotecaGrados\obj\Debug\BibliotecaGrados.dll
+D:\VisualStudio\BibliotecaGrados\BibliotecaGrados\obj\Debug\BibliotecaGrados.pdb
